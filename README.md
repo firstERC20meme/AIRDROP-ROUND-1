@@ -4,6 +4,10 @@ The airdrop will consist of multiple rounds. Each round will have a start/end da
 
 To see if you are are eligible for a specific round, search for your address in the published [ROUND X] - WHITELIST
 
+
+===================
+
+
 **FAQ**
 
 - **How do I claim?**
