@@ -12,7 +12,9 @@ To claim if you are eligible, go to Etherscan, connect your wallet and execute c
 It takes 3 inputs. Address that you are claiming for, associated amount and proof. All 3 inputs need to be EXACTLY identical to what is in the [ROUND X] - WHITELIST above, but **without** the quotation marks “” around address, amount and proof.
 
 **Can I claim multiple times?**
+
 You can only claim once per round, but you may be eligible to claim in multiple rounds.
 
 **How can I be placed on the whitelist?**
+
 The entry criteria for each round are decided individually and will be communicated before the round starts. Join the discord for more information: https://discord.gg/7pbcDYqY3a
