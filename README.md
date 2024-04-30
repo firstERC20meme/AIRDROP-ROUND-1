@@ -6,15 +6,16 @@ To see if you are are eligible for a specific round, search for your address in 
 
 **FAQ**
 
-**How do I claim?**
-To claim if you are eligible, go to Etherscan, connect your wallet and execute claim on the bitcoin $BTC airdrop contract : 
+- **How do I claim?**
 
-It takes 3 inputs. Address that you are claiming for, associated amount and proof. All 3 inputs need to be EXACTLY identical to what is in the [ROUND X] - WHITELIST above, but **without** the quotation marks “” around address, amount and proof.
+  - To claim if you are eligible, go to Etherscan, connect your wallet and execute claim on the bitcoin $BTC airdrop contract : 
 
-**Can I claim multiple times?**
+    It takes 3 inputs. Address that you are claiming for, associated amount and proof. All 3 inputs need to be EXACTLY identical to what is in the [ROUND X] - WHITELIST above, but **without** the quotation marks “” around address, amount and proof.
 
-You can only claim once per round, but you may be eligible to claim in multiple rounds.
+- **Can I claim multiple times?**
 
-**How can I be placed on the whitelist?**
+   - You can only claim once per round, but you may be eligible to claim in multiple rounds.
 
-The entry criteria for each round are decided individually and will be communicated before the round starts. Join the discord for more information: https://discord.gg/7pbcDYqY3a
+- **How can I be placed on the whitelist?**
+
+   - The entry criteria for each round are decided individually and will be communicated before the round starts. Join the discord for more information: https://discord.gg/7pbcDYqY3a
