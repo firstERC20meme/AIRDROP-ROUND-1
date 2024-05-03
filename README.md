@@ -12,7 +12,7 @@ To see if you are are eligible for a specific round, search for your address in 
 
 - **How do I claim?**
 
-  - To claim if you are eligible, go to Etherscan, connect your wallet and execute claim on the bitcoin $BTC airdrop contract : 
+  - To claim if you are eligible, go to Etherscan, connect your wallet and execute claim on the bitcoin $BTC airdrop contract: https://etherscan.io/address/0xbA51047a91d5bF6b86777A594D1714E8a337D120#writeContract#F1
 
     It takes 3 inputs. Address that you are claiming for, associated amount and proof. All 3 inputs need to be EXACTLY identical to what is in the [ROUND X] - WHITELIST above, but **without** the quotation marks “” around address, amount and proof.
 
